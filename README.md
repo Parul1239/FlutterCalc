@@ -1,6 +1,6 @@
 # flutter_cal
 
-A new Flutter application.
+A new Flutter application - A simple Flutter Calculator.
 
 ## Getting Started
 
